@@ -11,8 +11,9 @@
 :zap: Computer Science and Engineering<br>
 :beginner: I'm currently learning new technologies!<br>
 :fire: Besides programming, you may find me writing blogs,.<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"/> You can also check out my portfolio at <a href="https://pallabbag.me" target=_blank> Pallab's Portfolio</a><br>
-:email: How to reach me **onlyworkingemail@gmail.com**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"/> You can also check out my portfolio at <a href="https://pallabbag.me" target=_blank> Pallab's Portfolio</a>
+  <br>
+  :email: How to reach me: <strong>onlyworkingemail@gmail.com</strong>
 </p>
 
 
@@ -21,12 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/bagpallab7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
- <a href="https://instagram.com/bagpallab7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/people/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%AC-%E0%A6%AC%E0%A6%BE%E0%A6%97/100009292927479" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://twitter.com/bagpallab7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bagpallab7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+ <a href="https://instagram.com/bagpallab7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/people/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%AC-%E0%A6%AC%E0%A6%BE%E0%A6%97/100009292927479" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://twitter.com/bagpallab7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,4 +64,23 @@
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagpallab7&show_icons=true&locale=en&layout=compact" alt="pallab bag" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagpallab7&show_icons=true&locale=en" alt="pallab bag" /></p>
+
+
+
+<br><br>
+<details>
+  <summary>:fire: <b>GitHub Streak</b></summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagpallab7&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+</details>
+
+<details> 
+  
+  <summary>:abacus: <b>Best Repositories</b></summary>
+  
+  <br/>
+  <a href="https://github.com/BAGPALLAB7/Personal-assistant-in-python3.7" alt="personal-assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Personal-assistant-in-python3.7&theme=dark&title_color=#11d43e&icon_color=f9f9f9&text_color=0a0a0a&bg_color=151515" alt="Personal-assistant-in-python3.7" align="center" /></a>
+	<a href="https://github.com/BAGPALLAB7/Notepad-using-Python" alt="Notepad" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Notepad-using-Python&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Notepad-using-Python" align="center" /></a>
+  <br/>
+</details>
 

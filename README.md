@@ -11,7 +11,7 @@
 :zap: Computer Science and Engineering<br>
 :beginner: I'm currently learning new technologies!<br>
 :fire: Besides programming, you may find me writing blogs,.<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"/> You can also check out my portfolio at <a href="https://pallabbag.me" target=_blank> Pallab's Portfolio</a>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"/> You can also check out my portfolio at [Pallab's Portfolio](http://pallabbag.me/){:target="_blank" rel="noopener"}
   <br>
   :email: How to reach me: <strong>onlyworkingemail@gmail.com</strong>
 </p>
@@ -22,10 +22,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/bagpallab7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
- <a href="https://instagram.com/bagpallab7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/people/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%AC-%E0%A6%AC%E0%A6%BE%E0%A6%97/100009292927479" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://twitter.com/bagpallab7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+	
+	
+	
+	
+  [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />](https://linkedin.com/in/bagpallab7){:target="_blank" rel="noopener"}
+ [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" />](https://instagram.com/bagpallab7){:target="_blank" rel="noopener"}
+  [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" />](https://www.facebook.com/people/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%AC-%E0%A6%AC%E0%A6%BE%E0%A6%97/100009292927479){:target="_blank" rel="noopener"}
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" />](https://twitter.com/bagpallab7){:target="_blank" rel="noopener"}
 
 </p>
 

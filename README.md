@@ -42,7 +42,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css3" width="40" height="40"/>
 
- <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="java-script" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="java-script" width="40" height="40"/>
 <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" alt="sql" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Go-lang" width="40" height="40"/>
 

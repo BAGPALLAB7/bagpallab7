@@ -11,7 +11,7 @@
 :zap: Computer Science and Engineering<br>
 :beginner: I'm currently learning new technologies!<br>
 :fire: Besides programming, you may find me writing blogs,.<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"/> You can also check out my portfolio at <a href="https://pallabbag.me">Pallab's Portfolio</a>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"/> You can also check out my portfolio at <a href="www.pallab.engineer">Pallab's Portfolio</a>
   <br>
   :email: How to reach me: <strong>onlyworkingemail@gmail.com</strong>
 </p>

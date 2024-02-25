@@ -83,8 +83,8 @@
   <summary>:abacus: <b>Best Repositories</b></summary>
   
   <br/>
-  <a href="https://github.com/BAGPALLAB7/Netflix-GPT" alt="personal-assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Netflix-GPT&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Personal-assistant-in-python3.7" align="center" /></a>
- <a href="https://github.com/BAGPALLAB7/MyYoutube" alt="Notepad" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=MyYoutube&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Notepad-using-Python" align="center" /></a>
+  <a href="https://github.com/BAGPALLAB7/Netflix-GPT" alt="Netflix-GPT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=Netflix-GPT&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Netflix-GPT" align="center" /></a>
+ <a href="https://github.com/BAGPALLAB7/MyYoutube" alt="MyYoutube" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=bagpallab7&repo=MyYoutube&theme=dark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="MyYoutube" align="center" /></a>
   <br/>
 </details>
 
